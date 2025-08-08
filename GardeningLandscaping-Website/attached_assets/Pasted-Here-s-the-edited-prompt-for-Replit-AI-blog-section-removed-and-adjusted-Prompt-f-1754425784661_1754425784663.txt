@@ -1,0 +1,100 @@
+Here’s the **edited prompt for Replit AI** (blog section removed and adjusted):
+
+---
+
+### **Prompt for Replit AI**
+
+**Build me a fully responsive, SEO-friendly gardener/landscaper website template similar in style and functionality to [thegardenerlandscaping.ca](https://thegardenerlandscaping.ca/). This will be a generic template that I can later customize for local gardening and landscaping businesses. Follow these requirements:**
+
+---
+
+#### **1. Technology Stack**
+
+* **Frontend:** HTML5, CSS3, JavaScript (vanilla or React if better)
+* **Styling:** Use modern CSS (Flexbox/Grid) or TailwindCSS for fast customization
+* **Optional:** Use Bootstrap for faster UI development
+* **Performance:** Optimize for speed and SEO (meta tags, alt text, headings)
+
+---
+
+#### **2. Pages & Structure**
+
+* **Home Page**
+
+  * Hero section with background image/video of landscaping work
+  * Headline (e.g., “Transform Your Outdoor Space”) and CTA buttons (“Get a Quote”)
+  * Services overview
+  * Featured projects/gallery
+  * Customer testimonials
+  * Contact CTA and footer with social links
+* **About Us Page**
+
+  * Company story and mission
+  * Team section with images
+* **Services Page**
+
+  * List of common gardening/landscaping services with descriptions and icons
+  * Pricing or “Request Quote” section
+* **Gallery Page**
+
+  * Grid-based photo gallery of landscaping projects
+* **Contact Page**
+
+  * Contact form (Name, Email, Phone, Message)
+  * Google Maps embed for location
+  * Phone number and email prominently displayed
+
+---
+
+#### **3. Features**
+
+* Responsive design (mobile-first)
+* Sticky navigation bar with dropdown
+* Call-to-action buttons (e.g., “Request a Quote”)
+* **Contact Form** with email integration (use Formspree or similar)
+* Image sliders or lightbox for gallery
+* Social media icons in footer
+* SEO-optimized headings (H1, H2), meta descriptions, and schema markup
+* Fast loading images (compressed)
+
+---
+
+#### **4. Design Style**
+
+* **Color Palette:** Natural tones (greens, earthy browns, white accents)
+* **Typography:** Clean and modern fonts like Montserrat or Open Sans
+* Hero image with full-width layout and overlay text
+* Smooth hover animations for buttons and gallery items
+* Consistent margins and spacing for a professional look
+
+---
+
+#### **5. Customization**
+
+* Include a **config file or section in code** where I can easily change:
+
+  * Business name
+  * Contact info
+  * Colors and branding
+  * Service list
+  * Logo and images
+* Make sure content is in reusable components for scalability
+
+---
+
+#### **6. Output**
+
+* Provide:
+
+  * **Complete source code** (HTML/CSS/JS or React components)
+  * **Instructions to customize and deploy**
+  * A **clean, well-commented structure**
+* Ensure everything works out of the box without extra setup.
+
+---
+
+👉 **Goal:** I want to easily replicate and customize this template for different gardening/landscaping businesses to sell as a service.
+
+---
+
+✅ Do you want me to **also generate a ready-to-use HTML/CSS/JS template now with sample text and placeholder images** so you can upload it immediately? Or should I **expand this prompt further to include sample SEO tags, colors, and sample text for each section**?
